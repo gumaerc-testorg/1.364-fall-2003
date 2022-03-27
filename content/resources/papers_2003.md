@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f7a89954-cd18-7b4a-52cb-50121c7cec69
 resourcetype: Document
 title: papers_2003.pdf
 uid: 236003d2-77ca-618b-b9dc-401ce8b0050a

@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on the aims of the course,
+  the instructor, prerequisites, the organization of the course, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 9a6b2d82-e021-1bc1-b295-bde581175155
 ---
